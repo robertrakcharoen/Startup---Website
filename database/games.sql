@@ -1,0 +1,1 @@
+INSERT INTO games (naam, omschrijving, developer, reviews)
